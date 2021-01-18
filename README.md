@@ -1,2 +1,2 @@
 # sinking-ship-dungeon
-An one-pageish OSR dungeon
+A one-pageish OSR dungeon

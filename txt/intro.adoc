@@ -1,0 +1,14 @@
+
+== Character Creation
+
+.Character Backgrounds
+[options="autowidth,header"]
+,===
+d6,Background, Area Known, Prerequisite
+1,Passenger, rough idea of upper decks, none
+2,Cabin Crew, upper decks, none
+3,Stowaway, random lower deck, stealthy
+4,Guard, perimeter, visibly ready for combat
+5,Stoker, boiler deck, strong and enduring
+6,Ship's Doctor, infirmary, intelligent
+,===

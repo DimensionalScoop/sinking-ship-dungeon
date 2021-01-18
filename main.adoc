@@ -1,0 +1,6 @@
+:txt: txt
+
+= Working Title: Sinking Ship
+
+include::{txt}/intro.adoc[]
+include::{txt}/map.adoc[]

@@ -1,45 +1,117 @@
 == Room Description
 
-=== High Energy Magic Storage Hold (aka _Storage A_)
 
-=== Bulkhead AB
+=== The Ship
+* lit by self-igniting gas lamps (gas pressure pushes a firestone into the side of the pipe)
+* lamps have valves next to them as on/off switches
 
-=== _Storage B_
+* ship transports cargo from many different companies & people
+* cargo is loosely based on east–west trading during the Age of Sail
 
-=== _Storage A_
+. Random Cargo Table
+[options="header,autowidth"]
+:===
+d10:Item
+1: Tea
+2: Spices
+3: Opium
+4: Silver
+5: Furs
+6: Furniture [obvious]
+7: Bales of cotton and silk [obvious]
+8: Porcelain
+9: Mail
+10: Wood, strips of metal, ship repair stuff, tools [obvious]
+11: Food [kitchen storage]
+12: Coal [coal storage]
+:===
 
-=== Central Shaft
+=== Lower Decks
 
-=== Smoke Stack
+* pipes everywhere:
+    * hot and cold water, steam
+    * pneumatics
+    * gas
+* strong metal doors with speed wheels and bulkheads separate rooms
+* all bulkhead doors open to the outside of the ship so doors can't be opened when the room is flooded #todo
+* hot, stuffy air
 
-=== Security System Service Room
 
-=== Brig
 
-=== Coal Storage
+==== High Energy Magic Storage Hold (aka _Storage A_)
+* strong bulkhead with riddle lock
+    * airlock tunnel
+    * bolts that allow to decouple storage A from the ship (will sink)
+    * a sign that explains how to do that
+* lined with lead
+* magic crackles, small arcs strike between items and walls
+* contains one sublimation bomb (converts all solid matter to gas in a 50 m radius)
+* and a box of fireball wands
 
-=== Boiler Room
 
-=== Engine Room
+==== _Storage B_
+* exits
+    * bulkhead towards storage A
+    * big metal door towards central shaft
+    * hatch towards brig, waterlogged, cold to the touch
+    *  
+* wooden crates of diverse origin
 
-=== Galley
+==== _Storage A_
 
-=== Infirmary
+==== Central Shaft
+* runs entire height of the ship
+* metal doors to all levels
+* pipes on the outside, set-in ladder on the inside
+* removable gratings with small openings for the ladder
 
-=== Diver Room and Airlock
+* levels
+** storage b: ash raining from above
+** storage a: coal fire on the grating, hot air rising
+** engine deck: grating removed, coal hatch open
 
-=== Crew Quarters
+==== Smoke Stack
+
+==== Security System Service Room
+
+==== Brig
+
+==== Coal Storage
+
+==== Boiler Room
+* hatch to coal storage
+* coal gasification plant
+* water heater for cabins
+* water distillation for drinking water
+* sea water inlet: big enough to escape thru, if you're willing to flood the deck
+
+
+==== Engine Room
+* water pump for cabins
+* air compressor for pneumatics
+
+
+==== Galley
+
+==== Infirmary
+
+==== Diver Room and Airlock
+
+==== Crew Quarters
+
 
 === Main Deck
 - Cargo hatch
 - life boats below
 
-=== Cabins
+=== Superstructure
 
-=== Dining Room
+==== Cabins
 
-=== Lounge / Smoking Room
+==== Dining Room
 
-=== Superstructure Smoke Stack
+==== Lounge / Smoking Room
 
-=== Bridge
+==== Superstructure Smoke Stack
+
+==== Bridge

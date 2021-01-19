@@ -1,0 +1,61 @@
+=== The Ship
+* lit by self-igniting gas lamps (gas pressure pushes a firestone into the side of the pipe)
+* lamps have valves next to them as on/off switches
+
+* ship transports cargo from many different companies & people
+* cargo is loosely based on east–west trading during the Age of Sail
+
+* looks like a fast, small passenger ship; these are either filled with VIPs and armed to the teeth or full of third class passengers – neither a good target for piracy
+* actually has an enormous, semi-secret cargo hold
+
+
+Why are we sinking?::
+The Antagonist executed the following plan:
+1. drugged you to make you compliant, brought you to storage B
+2. knocked you out
+3. took the McGuffin from storage A
+4. prepared the fire in storage C (beeswax from storage), opened the grating and the coal store
+5. opened and jammed the diving air lock, unlocked all hatches on the way to shaft/storage C
+6. lit fire, climbed up shaft towards life boats
+7. panic crew and passengers, get away in life boat
+
+.Random Cargo Table
+[options="header,autowidth"]
+:===
+d10:Item
+1: Tea
+2: Spices
+3: Opium
+4: Silver
+5: Beeswax and honey
+6: Furniture [obvious]
+7: Bales of cotton and silk [obvious]
+8: Porcelain
+9: Mail
+10: Wood, strips of metal, ship repair stuff, tools [obvious]
+11: Food [kitchen storage]
+12: Coal [coal storage]
+:===
+
+=== Lower Decks
+
+* pipes everywhere:
+    * hot and cold water, steam
+    * pneumatics
+    * gas
+* strong metal doors with speed wheels and bulkheads separate rooms
+* flooding prevention:
+    * all bulkhead doors open to the outside of the ship
+    * all hatches open downwards
+* hot, stuffy air
+
+
+=== Security System
+pneumatic robots, HD 2d8::
+* fire metal slugs via air riffles 1d6
+* magnetic feet clamp to ship's hull
+* as big as a basketball
+* need to refill compressed air every 10 min
+* are hard-programmed to 'guard', can't be used for anything else
+* magic script inside chassis
+* ship has small double hatches next to every door 

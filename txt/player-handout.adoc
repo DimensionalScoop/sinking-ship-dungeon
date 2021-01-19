@@ -7,7 +7,7 @@
 - what's your background (see <<tab>>)?
 - you wake up from a drug-induced slumber, trapped in _storage B_.
 - flashback appropriate to your background: How do you know what you do?
-
+- you start with two items that are small enough to carry on your person.
 
 .Character Backgrounds
 [#tab, options="autowidth,header"]

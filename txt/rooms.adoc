@@ -1,42 +1,6 @@
 == Room Description
 
-
-=== The Ship
-* lit by self-igniting gas lamps (gas pressure pushes a firestone into the side of the pipe)
-* lamps have valves next to them as on/off switches
-
-* ship transports cargo from many different companies & people
-* cargo is loosely based on east–west trading during the Age of Sail
-
-. Random Cargo Table
-[options="header,autowidth"]
-:===
-d10:Item
-1: Tea
-2: Spices
-3: Opium
-4: Silver
-5: Furs
-6: Furniture [obvious]
-7: Bales of cotton and silk [obvious]
-8: Porcelain
-9: Mail
-10: Wood, strips of metal, ship repair stuff, tools [obvious]
-11: Food [kitchen storage]
-12: Coal [coal storage]
-:===
-
 === Lower Decks
-
-* pipes everywhere:
-    * hot and cold water, steam
-    * pneumatics
-    * gas
-* strong metal doors with speed wheels and bulkheads separate rooms
-* all bulkhead doors open to the outside of the ship so doors can't be opened when the room is flooded #todo
-* hot, stuffy air
-
-
 
 ==== High Energy Magic Storage Hold (aka _Storage A_)
 * strong bulkhead with riddle lock
@@ -46,7 +10,7 @@ d10:Item
 * lined with lead
 * magic crackles, small arcs strike between items and walls
 * contains one sublimation bomb (converts all solid matter to gas in a 50 m radius)
-* and a box of fireball wands
+* and an empty, broken box
 
 
 ==== _Storage B_
@@ -57,7 +21,7 @@ d10:Item
     *  
 * wooden crates of diverse origin
 
-==== _Storage A_
+==== _Storage C_
 
 ==== Central Shaft
 * runs entire height of the ship
@@ -67,12 +31,13 @@ d10:Item
 
 * levels
 ** storage b: ash raining from above
-** storage a: coal fire on the grating, hot air rising
+** storage c: coal fire on the grating, hot air rising
 ** engine deck: grating removed, coal hatch open
 
 ==== Smoke Stack
 
 ==== Security System Service Room
+* tools
 
 ==== Brig
 

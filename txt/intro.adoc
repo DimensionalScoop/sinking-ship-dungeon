@@ -1,14 +1,88 @@
 
 == Character Creation
 
-.Character Backgrounds
+- your characters have offended someone; they want you dead.
+- you're onboard the _Iceberg_—are you on the run, employed on the ship, suffering from wanderlust? All three?
+- what's your background (see table)?
+- you wake up from a drug-induced slumber, trapped in _storage B_.
+- flashback appropriate to your background: How do they know what they do?
+
+
+.Character Backgrounds (PC's Table)
 [options="autowidth,header"]
-,===
-d6,Background, Area Known, Prerequisite
-1,Passenger, rough idea of upper decks, none
-2,Cabin Crew, upper decks, none
-3,Stowaway, random lower deck, stealthy
-4,Guard, perimeter, visibly ready for combat
-5,Stoker, boiler deck, strong and enduring
-6,Ship's Doctor, infirmary, intelligent
-,===
+|===
+|d6 | Background | Prerequisite | Boon
+
+| 1
+| Passenger
+| none
+| more items
+
+| 2
+| Cabin Crew
+| none
+| knowledge about the upper decks
+
+| 3
+| Stowaway
+| stealthy
+| someone loyal in trouble, secret room
+
+| 4
+| Guard
+| visibly ready for combat
+| special access and knowledge about cargo
+
+| 5
+| Stoker
+| strong and enduring
+| another exit
+
+| 6
+| Ship's Doctor
+| intelligent
+| understands security protocols
+|===
+
+
+.Character Backgrounds (Referee's Table)
+[options="autowidth,header"]
+|===
+|d6 | Background | Prerequisite | Decks Known | Special Resources and Knowledge
+
+| 1
+| Passenger
+| none
+| rough idea of upper decks
+| one additional item
+
+| 2
+| Cabin Crew
+| none
+| upper decks, galley, infirmary, crew quarters
+| food elevator from galley to dining room, bridge is a lifeboat, captain won't abandon bridge
+
+| 3
+| Stowaway
+| stealthy
+| layout of random lower deck, diving room, brig
+| knows one of the prisoners, who is loyal to them
+
+| 4
+| Guard
+| visibly ready for combat
+| shaft, storage B, upper decks, brig
+| knows about the security system and high-energy magic cargo hold, has key to brig
+
+| 5
+| Stoker
+| strong and enduring
+| boiler and engine deck, shaft
+| knows about the water inlet, door from shaft to coal storage doesn't close properly
+
+| 6
+| Ship's Doctor
+| intelligent
+| infirmary and above
+| can disable the security system in the service room
+|===

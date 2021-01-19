@@ -1,0 +1,45 @@
+== Room Description
+
+=== High Energy Magic Storage Hold (aka _Storage A_)
+
+=== Bulkhead AB
+
+=== _Storage B_
+
+=== _Storage A_
+
+=== Central Shaft
+
+=== Smoke Stack
+
+=== Security System Service Room
+
+=== Brig
+
+=== Coal Storage
+
+=== Boiler Room
+
+=== Engine Room
+
+=== Galley
+
+=== Infirmary
+
+=== Diver Room and Airlock
+
+=== Crew Quarters
+
+=== Main Deck
+- Cargo hatch
+- life boats below
+
+=== Cabins
+
+=== Dining Room
+
+=== Lounge / Smoking Room
+
+=== Superstructure Smoke Stack
+
+=== Bridge

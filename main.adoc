@@ -4,3 +4,4 @@
 
 include::{txt}/intro.adoc[]
 include::{txt}/map.adoc[]
+include::{txt}/rooms.adoc[]
